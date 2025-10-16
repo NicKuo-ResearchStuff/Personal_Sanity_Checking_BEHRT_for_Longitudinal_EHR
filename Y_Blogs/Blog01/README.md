@@ -81,7 +81,7 @@ Metrics:
 ## Step 6 · Notes
 
 * Exclude months 40–59 entirely from the encoder.
-* Cap derived features (e.g., “time since last measure”) at month 39.
+* Cap derived features (*e.g.,* “time since last measure”) at month 39.
 * Watch class imbalance and label noise.
 * Keep binning consistent across splits.
 
