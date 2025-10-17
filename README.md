@@ -20,7 +20,7 @@ Cheers,</br>
 **SELECT blog_cols, date_column**</br>
 **FROM   this_repository**</br>
 **ORDER BY date_column DESC**</br>
-[Blog-002](https://github.com/NicKuo-ResearchStuff/Personal_Sanity_Checking_BEHRT_for_Longitudinal_EHR/tree/main/Y_Blogs/Blog02): Reproducibility Setup (2025-10-17)
+[Blog-002](https://github.com/NicKuo-ResearchStuff/Personal_Sanity_Checking_BEHRT_for_Longitudinal_EHR/tree/main/Y_Blogs/Blog02): Reproducibility Setup (2025-10-17)</br>
 [Blog-001](https://github.com/NicKuo-ResearchStuff/Personal_Sanity_Checking_BEHRT_for_Longitudinal_EHR/tree/main/Y_Blogs/Blog01): Game Plan (2025-10-16)
 
 ---
